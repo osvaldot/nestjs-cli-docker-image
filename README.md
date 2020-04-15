@@ -1,2 +1,2 @@
-# nestjs-docker-image
-Nestjs Docker image
+# nestjs-cli Docker image
+Nestjs-cli Docker image
